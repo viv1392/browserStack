@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: baseTest.StandaloneTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.91 s <<< FAILURE! - in baseTest.StandaloneTest
+setUp(baseTest.StandaloneTest)  Time elapsed: 0.033 s  <<< FAILURE!
+java.lang.IllegalArgumentException
+
